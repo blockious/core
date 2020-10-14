@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"blockious-local-storage-manager",
+	"blockious-main",
+	"blockious-network-manager",
+]
