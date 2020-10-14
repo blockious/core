@@ -1,5 +1,5 @@
 [package]
-name = "blockious-main"
+name = "blockious-core"
 version = "0.1.0"
 authors = ["Mihir Luthra <1999mihir.luthra@gmail.com>"]
 edition = "2018"
